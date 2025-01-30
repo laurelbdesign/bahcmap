@@ -369,15 +369,15 @@
             },
             {
                "id":"84ab713c-8c59-4160-8515-e0d5066a33bf",
-               "title":"San Franciso",
+               "title":"San Francisco",
                "type":"text",
-               "x":36.78826308213207,
-               "y":57.25515824160094,
+               "x":37.75645118724963,
+               "y":57.05530500881876,
                "tooltip":{
                   "enable_tooltip":false
                },
                "text":{
-                  "text":"San Franciso",
+                  "text":"San Francisco",
                   "font_family":"arial",
                   "font_size":10,
                   "text_color":"#cfcfcf"
@@ -1210,7 +1210,7 @@
             },
             {
                "id":"8689314d-774b-4b2e-85e6-4e7c530192f7",
-               "title":"6 FLags",
+               "title":"Six FLags",
                "x":55.08935258160374,
                "y":23.759738879444498,
                "default_style":{
